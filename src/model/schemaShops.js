@@ -17,3 +17,4 @@ const SchemaShop = Schema({
 }) 
 
 export const Shop = model('Shop', SchemaShop)
+

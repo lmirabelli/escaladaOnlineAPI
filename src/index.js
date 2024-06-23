@@ -3,7 +3,7 @@ import '../db.js'
 import {router as shopRoutes} from './routes/shopRoutes.js'
 import {router as addRoutes} from './routes/addShopRoutes.js' 
 import {router as deleteRoutes} from './routes/deleteShopRoutes.js'
-import {router as putRoutes} from './routes/putShopRputes.js'
+import {router as putRoutes} from './routes/putShopRoutes.js'
 import cors from 'cors'
 
 
